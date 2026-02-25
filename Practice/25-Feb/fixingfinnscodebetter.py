@@ -1,7 +1,7 @@
 def getinput(numeberofnumbers):
     match numeberofnumbers:
         case 1:
-            number_input_1 = int(input("Please Enter the First Number: "))
+            number_input_1 = int(input("Please Enter the Number: "))
             return [number_input_1]
         case 2:
             number_input_1 = int(input("Please Enter the First Number: "))

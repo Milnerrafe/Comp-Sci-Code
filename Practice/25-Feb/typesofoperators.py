@@ -11,3 +11,7 @@ if age >= 15 and hasPermission:
     print("Allowed to participate")
 else:
     print("Not Allowed")
+
+
+print(True or False and not True)
+# Evaluates as: True or (False and True) -> True or False -> True

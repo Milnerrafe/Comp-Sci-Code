@@ -1,5 +1,4 @@
 # Global Variables #
-from doctest import testfile
 
 passmark = 50
 bonusrate = 0.05
